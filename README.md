@@ -1,6 +1,8 @@
 # chezmoii - Belgian Culinary Platform
 
 A dynamic bilingual culinary platform connecting student chefs and amateur cooks across Belgium with customers seeking personalized home cooking experiences.
+🍲 Empowering local culinary talent to bring gourmet experiences into Belgian homes — one dish at a time.
+<img width="1885" height="756" alt="image" src="https://github.com/user-attachments/assets/d1c7b4a1-3f96-45e3-9e99-1c5f8062d515" />
 
 ## 🌟 Features
 
